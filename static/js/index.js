@@ -2,7 +2,7 @@ var app = {
 
 	// local variables
 	current_songs: "",
-	password: "Bearer BQDm3mZmRe-tBHECkycsG4EtACm6aXTVs4PIsNQTBM46wWfFUwCJy_CujfZZwbvppNOCfuUAhtgZ-VMRi5TS80XMSPXyCwy-sYB2u3K8-0c9O4BocqrdZsB2NOMBHi2mGs2o32ntg4sxLRbwlcnNdfPhYB7FyADO2zENjg",
+	password: "Bearer {token}",
 	mix_songs: [],
 	scores_obj: [],
 
