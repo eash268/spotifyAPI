@@ -1,5 +1,5 @@
 # spotifyAPI
-Uses the Spotify API and a custom algorithm to find the most similar songs in a playlist. Threw this together in a few hours as a proof-of-concept / to play around with the API.
+NO USER INTERFACE. Uses the Spotify API and a custom algorithm to find the most similar songs in a playlist. Threw this together in a few hours as a proof-of-concept / to play around with the API.
 
 ## Play around with it yourself:
 1. '$ cd' to the root directory of this project after cloning and run with 'python3 app.py'. 
